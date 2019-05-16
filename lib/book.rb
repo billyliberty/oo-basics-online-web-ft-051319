@@ -12,4 +12,10 @@ class Book
 
   attr_accessor :author
 
+  def page_count=(num)
+    @page_count = num
+  end
+
+  attr_accessor = :num
+
 end
