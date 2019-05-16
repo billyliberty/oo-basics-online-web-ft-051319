@@ -8,5 +8,5 @@ class shoe
   def repaired
     puts ""
 
-  
+
 end
