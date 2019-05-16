@@ -5,8 +5,6 @@ class shoe
 
   attr_accessor :brand, :color, :size, :material, :condition
 
-  def repaired
-    puts ""
-
+  
 
 end
