@@ -10,4 +10,6 @@ class Book
     @author = author
   end
 
+  attr_accessor :author
+
 end
