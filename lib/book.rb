@@ -4,12 +4,6 @@ class Book
     @title = title
   end
 
-  def title
-    @title
-  end
-
-  def title=(title)
-    @title = title
-  end
+  attr_accessor :title
 
 end
