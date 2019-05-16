@@ -18,4 +18,10 @@ class Book
 
   attr_accessor = :num
 
+  def genre=(genre)
+    @genre = genre
+  end
+
+  attr_accessor = :genre
+
 end
