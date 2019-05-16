@@ -6,4 +6,8 @@ class Book
 
   attr_accessor :title
 
+  def author=(author)
+    @author = author
+  end
+
 end
